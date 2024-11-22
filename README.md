@@ -43,12 +43,7 @@ The project is deployed on Glitch. You can view the live version of the app by v
 
 [Dynamic Book Club on Glitch]([https://slash-teeth.glitch.me](https://github.com/NivethaSre/Dynamic-Book-Club/edit/main/README.md))
 
-Contributing
-
-Contributions are welcome! If you would like to improve the Dynamic Book Club app, please feel free to fork the repository and submit a pull request. If you're planning to make major changes, please open an issue first to discuss them before submitting a pull request.
 
 
 
----
 
-**Dynamic Book Club** is a fun and easy way for people to exchange books and share their love for reading. It is designed to be flexible and easily adaptable for different book communities, with a clean, user-friendly interface.
