@@ -36,7 +36,6 @@ Steps to Install
     npm start
     ```
 
-4. Open your browser and visit `http://localhost:3000` to see the app in action.
 
 Deployment
 
